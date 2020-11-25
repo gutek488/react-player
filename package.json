@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CookPete/react-player.git"
+    "url": "https://github.com/gutek488/react-player.git"
   },
   "keywords": [
     "react",
@@ -49,7 +49,7 @@
   "bugs": {
     "url": "https://github.com/CookPete/react-player/issues"
   },
-  "homepage": "https://github.com/CookPete/react-player",
+  "homepage": "https://github.com/gutek488/react-player",
   "peerDependencies": {
     "react": ">=16.6.0"
   },
